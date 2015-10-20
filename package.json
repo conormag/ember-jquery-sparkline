@@ -1,7 +1,7 @@
 {
   "name": "ember-jquery-sparkline",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember addon for jQuery sparkline plugin - generates sparklines (small inline charts)",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -37,7 +37,10 @@
     "ember-try": "0.0.6"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "jquery sparkline",
+    "sparklines",
+    "charts"
   ],
   "dependencies": {
     "ember-cli-htmlbars": "0.7.9",
