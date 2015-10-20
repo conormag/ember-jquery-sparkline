@@ -1,6 +1,6 @@
 'use strict';
 
-var JQUERY_SPARKLINE_VERSION = '2.1.2'
+var JQUERY_SPARKLINE_VERSION = '2.1.3'
 
 module.exports = {
   description: 'Installs jquery.sparkline as a dependency',
