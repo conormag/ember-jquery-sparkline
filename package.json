@@ -1,6 +1,6 @@
 {
   "name": "ember-jquery-sparkline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ember addon for jQuery sparkline plugin - generates sparklines (small inline charts)",
   "directories": {
     "doc": "doc",
