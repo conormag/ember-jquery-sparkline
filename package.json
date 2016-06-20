@@ -11,11 +11,11 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/conormag/ember-jquery-sparkline",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Conor Maguire <conormag@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
@@ -40,7 +40,8 @@
     "ember-addon",
     "jquery sparkline",
     "sparklines",
-    "charts"
+    "charts",
+    "bullet charts"
   ],
   "dependencies": {
     "ember-cli-htmlbars": "0.7.9",
