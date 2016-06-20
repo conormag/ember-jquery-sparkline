@@ -18,9 +18,9 @@ test('it renders', function(assert) {
   // Template block usage:
   this.render(hbs`
     {{#spark-line}}
-      template block text
+      template block text1
     {{/spark-line}}
   `);
 
-  assert.equal(this.$().text().trim(), 'template block text');
+  assert.equal(this.$().text().trim(), 'template block text1');
 });
